@@ -1,5 +1,18 @@
 # tinacms-cli
 
+## 0.58.6
+
+### Patch Changes
+
+- 80732bd97: Create a @tinacms/datalayer package which houses the logic for data management for the GraphQL API. This simplifies the @tinacms/graphql package and allows for a clearer separation.
+- Updated dependencies [34cd3a44a]
+- Updated dependencies [b006a5ab9]
+- Updated dependencies [80732bd97]
+- Updated dependencies [0bec208e2]
+- Updated dependencies [5c070a83f]
+  - @tinacms/graphql@0.59.3
+  - @tinacms/datalayer@0.0.1
+
 ## 0.58.5
 
 ### Patch Changes
