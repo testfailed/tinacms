@@ -21460,7 +21460,7 @@ fsevents@~2.1.2:
     crypto-js: ^4.0.0
     gray-matter: 4.0.2
     jest: ^27.0.6
-    qs: 6.9.3
+    qs: 6.9.7
     react-tinacms-github: "workspace:*"
     tinacms: "workspace:*"
     tslib: ^1.10.0
@@ -24319,10 +24319,10 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"qs@npm:6.9.3":
-  version: 6.9.3
-  resolution: "qs@npm:6.9.3"
-  checksum: ac934049258cbebd4c6691c9c5c2676e90ed481b18178c030ef6acaa08e737d959028a4a75f460e414a5f24e1ef4a4aafb63d0b2fbc074d8597e2d17c2b9ec24
+"qs@npm:6.9.7":
+  version: 6.9.7
+  resolution: "qs@npm:6.9.7"
+  checksum: 2be95a70de737e98d24846a90065fbf6fcf449cf0367040eff3da3f3add05f1d0a256198e267ac9c8429aaa311ca7030f824df3615c850ed28967329d29d002a
   languageName: node
   linkType: hard
 
