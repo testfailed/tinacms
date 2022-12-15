@@ -63,7 +63,7 @@
     "atob": "2.1.2",
     "color-string": "^1.5.3",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "final-form": "^4.20.2",
     "final-form-arrays": "^3.0.1",
     "lodash.get": "^4.4.2",
