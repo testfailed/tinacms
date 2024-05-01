@@ -33,11 +33,11 @@
   },
   "dependencies": {
     "atob": "2.1.2",
-    "axios": "0.21.1",
+    "axios": "0.28.0",
     "cookie": "0.4.0",
     "crypto-js": "^4.0.0",
     "gray-matter": "4.0.2",
-    "qs": "6.9.3",
+    "qs": "6.9.7",
     "react-tinacms-github": "workspace:*",
     "uuid": "^8.1.0"
   },
